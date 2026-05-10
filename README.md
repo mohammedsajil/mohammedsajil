@@ -70,16 +70,16 @@
 
 - **Bachelor of Technology: Computer Science & Engineering**<br>MEA Engineering College, Perinthalmanna | *2018 – 2022*
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=mohammedsajil&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedsajil&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammedsajil&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedsajil&theme=radical&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammedsajil&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammedsajil&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=mohammedsajil&theme=dark&no-frame=true&no-bg=true&margin-w=4) -->
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Mohammedsajil1)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- ## 🐦 Latest Tweet -->
+<!-- [![](https://gtce.itsvg.in/api?username=Mohammedsajil1)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
